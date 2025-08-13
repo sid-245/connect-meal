@@ -28,7 +28,7 @@ Clone this repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/connect-meal.git
+git clone https://github.com/sid-245/connect-meal.git
 Install packages:
 
 bash
