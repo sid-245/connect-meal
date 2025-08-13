@@ -1,69 +1,57 @@
-# Welcome to your Lovable project
+## 🍽️ Connect Meal
+🌟 What is Connect Meal?
+Connect Meal is a friendly web platform that helps reduce food waste by connecting people who have extra food with those who need it. Donors can share leftover food, and receivers can request meals — all made easy with location tracking for quick delivery! 🚚📍
 
-## Project info
+## ✨ Features
+🧑‍🤝‍🧑 Donor & receiver sign-up
 
-**URL**: https://lovable.dev/projects/cbd4120c-4eeb-43c2-b469-0986c9fdfdfe
+🍲 Post and request leftover food
 
-## How can I edit this code?
+🔄 Smart matching between donors & receivers
 
-There are several ways of editing your application.
+🗺️ Location tracking with maps
 
-**Use Lovable**
+✅ Track your donations and requests
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/cbd4120c-4eeb-43c2-b469-0986c9fdfdfe) and start prompting.
+## 🛠️ Technologies Used
+💻 Frontend: HTML, CSS, JavaScript
 
-Changes made via Lovable will be committed automatically to this repo.
+⚙️ Backend: Node.js / Python (your choice)
 
-**Use your preferred IDE**
+🗄️ Database: MySQL / MongoDB
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+🌍 Maps: Google Maps API
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## 🚀 How to Run
+Clone this repo:
 
-Follow these steps:
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/connect-meal.git
+Install packages:
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+bash
+Copy
+Edit
+npm install
+Set up your environment (API keys, database config)
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Start the app:
 
-# Step 3: Install the necessary dependencies.
-npm i
+bash
+Copy
+Edit
+npm start
+## 🙌 How to Use
+Sign up as a donor or receiver
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Donors share available food 🍛
 
-**Edit a file directly in GitHub**
+Receivers request food assistance 🙏
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Connect Meal helps match and deliver food fast! ⚡
 
-**Use GitHub Codespaces**
+## 🤝 Contributing
+Want to help? Feel free to fork and send a pull request! 💡
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with .
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/cbd4120c-4eeb-43c2-b469-0986c9fdfdfe) and click on Share -> Publish.
-
-## I want to use a custom domain - is that possible?
-
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
